@@ -1,2 +1,3 @@
 # hello-world
-This is Yuanyuan Bao's repository. It is for CEN4090L HW1.
+This is Yuan's repository.
+I am interested in programing. I would like to learn more about writting code.
